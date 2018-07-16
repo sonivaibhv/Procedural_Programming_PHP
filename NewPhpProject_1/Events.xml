@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+<icons>
+
+
+<rss version="0.91">
+<five>
+
+    
+<event>
+   <Event_Type>Art Exhibition</Event_Type>
+   <venues>Sun Gallery</venues>
+   <date>2015-12-14 19:30:00</date>
+   <ticket_price>$ Free Entry</ticket_price>
+   <price5>$ Free Entry</price5>
+   <group_disscount>0%</group_disscount>
+   <event_title>Helen Draper and Friends: Art Exhibition</event_title>
+   <image>pics/art.jpg</image>
+</event>
+
+<event>
+   <Event_Type>Cinema</Event_Type>
+   <venues>Concert Hall</venues>
+   <date>2015-12-15 19:30:00</date>
+   <ticket_price>$ 15.00</ticket_price>
+   <price5>$ 75</price5>
+   <group_disscount>0%</group_disscount>
+   <event_title>Branagh Theatre: The Winter's Tale</event_title>
+   <image>pics/pan.jpg/</image>
+</event>
+
+<event>
+   <Event_Type>Classical Music</Event_Type>
+   <venues>Concert Hall</venues>
+   <date>2015-12-16 19:30:00 </date>
+   <ticket_price>$ 25.00</ticket_price>
+   <price5> $ 62.5</price5>
+   <group_disscount>5%</group_disscount>
+   <event_title>Bizet Carmen</event_title>
+   <image>pics/carmen.jpg/</image>
+</event>
+
+<event>
+   <Event_Type>Popular Music</Event_Type>
+   <venues>Concert Hall</venues>
+   <date>2015-12-17 19:30:00</date>
+   <ticket_price>$ 37.00</ticket_price>
+   <price5>$ 166.5</price5>
+   <group_disscount>10%</group_disscount>
+   <event_title>The Osmonds Perform Andy Williams</event_title>
+   <image>pics/cinema.jpg/</image>
+</event>
+
+<event>
+  <Event_Type>Panto</Event_Type>
+   <venues>Ashcroft</venues>
+   <date>2015-12-18 19:30:00</date>
+   <ticket_price>$ 18.00</ticket_price>
+   <price5>$ 90</price5>
+   <group_disscount>0%</group_disscount>
+   <event_title>Panto: Cinderella with Stephen  Mulhern</event_title>
+   <image>pics/popular.jpg/</image>
+</event>
+
+
+</five>
+
+        
+</rss>
+
+</icons>
